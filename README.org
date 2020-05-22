@@ -1,0 +1,19 @@
+* Blindfold
+
+The ultimate distraction free writing application.
+
+* Installation
+
+sudo make install
+
+* Usage
+
+blindfold > filename
+
+Start typing.
+
+Press Ctrl-d to exit.
+
+That's it.
+
+
